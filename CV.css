@@ -1,0 +1,21 @@
+
+h1{
+    font: italic;color: deeppink;
+}
+h2{color: blue;
+
+}
+div{
+ font-family: monospace;font-weight: 600;
+ color: black;
+}
+
+body{
+    font: 600;color: rgb(15, 15, 15); font-weight;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(243, 242, 237);
+}
+
