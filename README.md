@@ -1,2 +1,2 @@
-# Curr-culo
-Meu Currículo
+# Currículo
+Meu Currículo-Em Andamento
